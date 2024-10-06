@@ -6,7 +6,7 @@
 name: 'Publish to GitHub Pages'
 
 env:
-  GODOT_VERSION: 3.6 # Remember to manually set image to this version below.
+  GODOT_VERSION: 3.5.2 # Remember to manually set image to this version below.
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-22.04
 
     container:
-      image: barichello/godot-ci:3.6
+      image: barichello/godot-ci:3.5.2
 
     steps:
       - name: Checkout
