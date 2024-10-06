@@ -1,0 +1,41 @@
+{
+	"events": [
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One day in the archives of time."
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 5,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1728130235.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There lived within a cave, a bug colony."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1728130149.json",
+		"name": "Start"
+	}
+}

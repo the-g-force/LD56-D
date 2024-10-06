@@ -1,0 +1,25 @@
+{
+	"color": "#ffff0000",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1728139743.json",
+	"mirror_portraits": false,
+	"name": "Master Creature",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": -300,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://dialogic/New Piskel (28).png"
+		},
+		{
+			"name": "New Piskel (29)",
+			"path": "res://dialogic/New Piskel (29).png"
+		}
+	],
+	"scale": 1000,
+	"theme": ""
+}

@@ -1,0 +1,95 @@
+{
+	"events": [
+		{
+			"background": "res://addons/dialogic/Example Assets/backgrounds/New Piskel (21).png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Once you get the gold, you run outside."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Which way would you like to go?"
+		},
+		{
+			"choice": "Run through the open left Gate door.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1728150748",
+			"index": 0,
+			"name": "1"
+		},
+		{
+			"change_timeline": "timeline-1728151800.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Climb the wall, and sneak through the guard.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you are about half way up the wall, spears pour down from above."
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Do you want to turn back?"
+		},
+		{
+			"choice": "No!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": "Spear"
+		},
+		{
+			"change_timeline": "timeline-1728137455.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Yeah.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1728150748",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1728150517.json",
+		"name": "Escape"
+	}
+}

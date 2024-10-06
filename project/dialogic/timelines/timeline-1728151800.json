@@ -1,0 +1,101 @@
+{
+	"events": [
+		{
+			"animation": "instant_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1728152931.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You run through the open gates, and find the master gaurd."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What do you want to do?"
+		},
+		{
+			"choice": "Attack him.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He did not see you, and you kill him."
+		},
+		{
+			"character": "character-1728152931.json",
+			"event_id": "dialogic_001",
+			"portrait": "New Piskel (24)",
+			"text": "You have killed me!"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://dialogic/sounds/scream.wav",
+			"volume": 0
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You run away."
+		},
+		{
+			"change_timeline": "timeline-1728138356.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Try sneaking past.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You trip and the Master Gaurd sees you."
+		},
+		{
+			"change_timeline": "timeline-1728137455.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1728151800.json",
+		"name": "Flee"
+	}
+}

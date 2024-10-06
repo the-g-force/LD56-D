@@ -1,0 +1,446 @@
+{
+	"events": [
+		{
+			"animation": "instant_out.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://addons/dialogic/Example Assets/backgrounds/New Piskel (17).png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://addons/dialogic/Example Assets/Sound Effects/Gasyyyyeeeeeeeeeeeeeeerrr43432.wav",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One day, in the archives of time."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1728130235.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1728135766",
+			"index": 0,
+			"name": "Restart"
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There lived a colony of tiny creatures."
+		},
+		{
+			"character": "character-1728130235.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "hmmmm... Where should I look for the Master Creature?"
+		},
+		{
+			"choice": "The Great Bedroom.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"background": "res://dialogic/New Piskel (27).png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "instant_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1728139743.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When you arive he is asleep."
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You kill him."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1728139743.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "New Piskel (29)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1728139743.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A soldier attacks you luckily you parry, and flee to the hall."
+		},
+		{
+			"change_timeline": "timeline-1728135292.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Good question.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1728130764.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Were would you like to go?"
+		},
+		{
+			"choice": "Military Room",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"animation": "instant_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1728137700.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1728137700.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get out, private information!"
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You tried to lisen, but he was talking to fast."
+		},
+		{
+			"animation": "4-fade_out.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"change_timeline": "timeline-1728137455.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Throne Room",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1728135292.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Dining Room",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1728135292.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Bedroom",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(Walking)"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1728137700.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1728137700.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What are you doing here?"
+		},
+		{
+			"character": "character-1728130235.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "I want to take a nap!"
+		},
+		{
+			"character": "character-1728137700.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ok!"
+		},
+		{
+			"character": "character-1728130235.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Thank you."
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You fall asleep."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(Snoring)"
+		},
+		{
+			"character": "character-1728130161.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It is now morning time!"
+		},
+		{
+			"character": "character-1728137700.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I want to clean up, please leave."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1728137700.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"change_timeline": "timeline-1728135292.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "The Bathroom",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1728164111.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1728131372.json",
+		"name": "start"
+	}
+}

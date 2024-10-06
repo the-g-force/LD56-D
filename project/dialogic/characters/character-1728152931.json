@@ -1,0 +1,25 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1728152931.json",
+	"mirror_portraits": false,
+	"name": "Master Guard",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": -300,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://addons/dialogic/Example Assets/backgrounds/New Piskel (20).png"
+		},
+		{
+			"name": "New Piskel (24)",
+			"path": "res://addons/dialogic/Example Assets/Sound Effects/New Piskel (24).png"
+		}
+	],
+	"scale": 1000,
+	"theme": ""
+}

@@ -1,0 +1,21 @@
+{
+	"color": "#ff26ff00",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1728135329.json",
+	"mirror_portraits": false,
+	"name": "Creature mobil bank",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": -300,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://addons/dialogic/Example Assets/portraits/New Piskel (10).png"
+		}
+	],
+	"scale": 1000,
+	"theme": ""
+}
