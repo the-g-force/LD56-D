@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Title.ogg-e8af2b89449f995369430a3c48129ed0.oggstr"
+
+[deps]
+
+source_file="res://dialogic/sounds/Title.ogg"
+dest_files=[ "res://.import/Title.ogg-e8af2b89449f995369430a3c48129ed0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

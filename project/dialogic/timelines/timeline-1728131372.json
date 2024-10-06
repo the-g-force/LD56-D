@@ -30,7 +30,7 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
-			"file": "res://addons/dialogic/Example Assets/Sound Effects/Gasyyyyeeeeeeeeeeeeeeerrr43432.wav",
+			"file": "res://dialogic/sounds/Gasyyyyeeeeeeeeeeeeeeerrr43432.ogg",
 			"volume": 0
 		},
 		{

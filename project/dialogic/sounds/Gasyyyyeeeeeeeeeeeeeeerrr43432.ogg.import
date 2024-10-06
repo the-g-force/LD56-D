@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Gasyyyyeeeeeeeeeeeeeeerrr43432.ogg-ebabd8075f72bf3a98115a64489442ec.oggstr"
+
+[deps]
+
+source_file="res://dialogic/sounds/Gasyyyyeeeeeeeeeeeeeeerrr43432.ogg"
+dest_files=[ "res://.import/Gasyyyyeeeeeeeeeeeeeeerrr43432.ogg-ebabd8075f72bf3a98115a64489442ec.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

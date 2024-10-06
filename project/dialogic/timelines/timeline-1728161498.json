@@ -6,7 +6,7 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
-			"file": "res://dialogic/sounds/Title.wav",
+			"file": "res://dialogic/sounds/Title.ogg",
 			"volume": 0
 		},
 		{
